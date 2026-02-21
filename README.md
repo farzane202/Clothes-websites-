@@ -12,5 +12,5 @@ Fully functional backend with PHP and MySQL
 How to Run
 Install XAMPP or WAMP (or any PHP + MySQL local server)
 Open phpMyAdmin and create a new database, for example clothing_store
-Import the file clothing_store from the ZIP into the new database
+Import the file clothing_store into the new database
 Open the website in your browser
